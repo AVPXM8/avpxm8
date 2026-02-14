@@ -1,5 +1,7 @@
 ![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=28&color=ffdf87&pause=1000&width=435&lines=Hey+there%2C+I'm+Vivek+!+👋🏻)
-Welcome to my GitHub profile!
+
+<p align="center">Welcome to my GitHub profile!</p>
+
 
 > 🚀 *"Building skills one commit at a time."*
 
