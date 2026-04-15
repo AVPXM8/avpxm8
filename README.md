@@ -8,10 +8,10 @@
 ## About Me
 
 - MCA Student — Department of Computer Science, University of Delhi  
-- Full Stack Developer (MERN) + DSA (C++) Specialist  
-- Currently working on **System Design, Machine Learning & AI Systems**  
-- Focused on building **scalable, production-grade backend architectures**  
-- Strong in **problem-solving, competitive programming, and optimization**  
+- Full Stack Developer (MERN) + DSA (C++)  
+- Currently working on System Design, Machine Learning & AI Systems  
+- Building scalable, production-grade backend architectures  
+- Strong focus on problem solving and optimization  
 
 
 ---
@@ -47,8 +47,8 @@ Node.js, Express.js, REST APIs, JWT Auth
 MongoDB, MySQL, Redis  
 
 ### AI / ML Stack
-- RAG (Retrieval-Augmented Generation)
-- Vector DB: Pinecone, ChromaDB  
+- Retrieval-Augmented Generation (RAG)  
+- Vector Databases: Pinecone, ChromaDB  
 - LLM APIs: OpenAI GPT API, Google Gemini API  
 - Feature Engineering & Model Optimization  
 
@@ -60,15 +60,13 @@ Vercel, Render, AWS, Git
 <td width="50%">
 
 ### Contribution Graph
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avpxm8&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avpxm8&theme=default"/>
 
-### GitHub Stats 
-<!-- Stable fallback --> 
-<imgsrc="https://camo.githubusercontent.com/856ae1ed5bf6a20a1d1c8b5252ecdc5a09ad6d5e05adec695cccf1e64465e077/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d617670786d38267468656d653d64656661756c7426686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365"/>  
-<img src="https://github-readme-stats.vercel.app/api?username=avpxm8"/>
+### GitHub Stats
+<img src="https://camo.githubusercontent.com/856ae1ed5bf6a20a1d1c8b5252ecdc5a09ad6d5e05adec695cccf1e64465e077/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d617670786d38267468656d653d64656661756c7426686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365"/>
 
 ### Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avpxm8&layout=compact&theme=github_dark&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avpxm8&layout=compact"/>
 
 </td>
 </tr>
@@ -79,7 +77,7 @@ Vercel, Render, AWS, Git
 ## LeetCode Performance
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/AVPXM8?theme=dark&font=Karma&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/AVPXM8?theme=light&font=Karma&ext=heatmap"/>
 </p>
 
 ---
@@ -87,18 +85,19 @@ Vercel, Render, AWS, Git
 ## Current Focus
 
 - Competitive Programming — Advanced DSA & Problem Solving  
-- System Design — Scalable Backend Architectures  
-- Machine Learning — Real-world Model Deployment  
-- AI Systems — RAG Pipelines + LLM Integrations  
+- System Design — Scalable backend architectures  
+- Machine Learning — Model building & optimization  
+- AI Systems — RAG pipelines and LLM integrations
+- Target: 20+ LPA (SDE / Backend / Full Stack roles)
 
 ---
 
 ## GitHub Metrics
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/avpxm8?style=flat-square&label=Total%20Stars&color=FFD700"/>
-<img src="https://img.shields.io/github/followers/avpxm8?style=flat-square&label=Followers&color=0077B5"/>
-<img src="https://komarev.com/ghpvc/?username=avpxm8&label=Profile%20Views&color=0077B5&style=flat-square"/>
+<img src="https://img.shields.io/github/stars/avpxm8?style=flat-square&label=Total%20Stars"/>
+<img src="https://img.shields.io/github/followers/avpxm8?style=flat-square&label=Followers"/>
+<img src="https://komarev.com/ghpvc/?username=avpxm8&label=Profile%20Views&style=flat-square"/>
 </p>
 
 ---
