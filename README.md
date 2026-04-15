@@ -1,20 +1,18 @@
 ![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=28&color=ffdf87&pause=1000&width=435&lines=Hey+there%2C+I'm+Vivek!)
 
 <p align="center">Welcome to my GitHub profile</p>
-
 <p align="center"><i>Building skills one commit at a time.</i></p>
 
 ---
 
 ## About Me
 
-- MCA Student at Department of Computer Science, University of Delhi  
-- Specialized in Full Stack Web Development and Data Structures & Algorithms (C++)  
-- Currently mastering React, MongoDB, System Design, and Machine Learning  
-- Building scalable MERN Stack applications with production-ready architecture  
-- Advanced learner: Andrew Ng ML Specialization, LeetCode competitive programming  
-- Core values: Consistency, Code Quality, Continuous Learning  
-    
+- MCA Student — Department of Computer Science, University of Delhi  
+- Full Stack Developer (MERN) + DSA (C++) Specialist  
+- Currently working on **System Design, Machine Learning & AI Systems**  
+- Focused on building **scalable, production-grade backend architectures**  
+- Strong in **problem-solving, competitive programming, and optimization**  
+
 
 ---
 
@@ -30,46 +28,45 @@
 
 ---
 
-## Technical Stack & Statistics
+## Tech Stack & Engineering Capabilities
 
 <table>
 <tr>
 <td width="50%">
 
-### Languages
-<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
+### Core Languages
+C, C++, Python, JavaScript  
 
 ### Frontend
-<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite"/>
+React, HTML5, CSS3, Vite  
 
 ### Backend
-<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+Node.js, Express.js, REST APIs, JWT Auth  
 
 ### Databases
-<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis"/>
+MongoDB, MySQL, Redis  
+
+### AI / ML Stack
+- RAG (Retrieval-Augmented Generation)
+- Vector DB: Pinecone, ChromaDB  
+- LLM APIs: OpenAI GPT API, Google Gemini API  
+- Feature Engineering & Model Optimization  
+
+### DevOps
+Vercel, Render, AWS, Git  
 
 </td>
 
 <td width="50%">
 
-### GitHub Stats
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=avpxm8&theme=github"/>
+### Contribution Graph
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avpxm8&theme=github_dark"/>
+
+### GitHub Stats (Private + All Commits)
+<img src="https://github-readme-stats.vercel.app/api?username=avpxm8&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true"/>
 
 ### Top Languages
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avpxm8&theme=github"/>
-
-### Repositories Per Language
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avpxm8&theme=github"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avpxm8&layout=compact&theme=github_dark&count_private=true"/>
 
 </td>
 </tr>
@@ -77,35 +74,32 @@
 
 ---
 
-## LeetCode Analytics
+## LeetCode Performance
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/AVPXM8?theme=light&font=Karma&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/AVPXM8?theme=dark&font=Karma&ext=heatmap"/>
 </p>
 
 ---
 
 ## Current Focus
 
-- Competitive Programming — LeetCode optimization & DSA mastery  
-- System Design — Scalable architecture & backend engineering  
-- Machine Learning — Feature engineering & model optimization   
+- Competitive Programming — Advanced DSA & Problem Solving  
+- System Design — Scalable Backend Architectures  
+- Machine Learning — Real-world Model Deployment  
+- AI Systems — RAG Pipelines + LLM Integrations  
 
 ---
 
-## Achievement Metrics
+## GitHub Metrics
 
 <p align="center">
 <img src="https://img.shields.io/github/stars/avpxm8?style=flat-square&label=Total%20Stars&color=FFD700"/>
 <img src="https://img.shields.io/github/followers/avpxm8?style=flat-square&label=Followers&color=0077B5"/>
-<img src="https://img.shields.io/badge/Public%20Repositories-Active-success?style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=avpxm8&label=Profile%20Views&color=0077B5&style=flat-square"/>
 </p>
 
 ---
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=avpxm8&label=Profile%20Views&color=0077B5&style=for-the-badge"/>
-</p>
 
 <p align="center">
 Code is poetry, debugging is the art of translation.
