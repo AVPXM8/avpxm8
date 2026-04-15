@@ -62,8 +62,10 @@ Vercel, Render, AWS, Git
 ### Contribution Graph
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avpxm8&theme=github_dark"/>
 
-### GitHub Stats (Private + All Commits)
-https://github-readme-stats.vercel.app/api?username=avpxm8&show_icons=true
+### GitHub Stats 
+<!-- Stable fallback --> 
+<imgsrc="https://camo.githubusercontent.com/856ae1ed5bf6a20a1d1c8b5252ecdc5a09ad6d5e05adec695cccf1e64465e077/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d617670786d38267468656d653d64656661756c7426686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365"/>  
+<img src="https://github-readme-stats.vercel.app/api?username=avpxm8"/>
 
 ### Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avpxm8&layout=compact&theme=github_dark&count_private=true"/>
