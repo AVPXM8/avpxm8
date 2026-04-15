@@ -8,19 +8,12 @@
 
 ## About Me
 
-**MCA Student** at Department of Computer Science, University of Delhi
-
-Specialized in Full Stack Web Development and Data Structures & Algorithms (C++)
-
-Currently mastering React, MongoDB, System Design, and Machine Learning
-
-Building scalable MERN Stack applications with production-ready architecture
-
-Advanced learner: Andrew Ng ML Specialization, LeetCode competitive programming
-
-Core values: Consistency, Code Quality, Continuous Learning
-
-
+**MCA Student** at Department of Computer Science, University of Delhi  
+Specialized in Full Stack Web Development and Data Structures & Algorithms (C++)  
+Currently mastering React, MongoDB, System Design, and Machine Learning  
+Building scalable MERN Stack applications with production-ready architecture  
+Advanced learner: Andrew Ng ML Specialization, LeetCode competitive programming  
+Core values: Consistency, Code Quality, Continuous Learning  
 
 ---
 
@@ -89,13 +82,10 @@ Core values: Consistency, Code Quality, Continuous Learning
 
 ## Current Focus
 
-Competitive Programming: LeetCode optimization & DSA mastery
+**Competitive Programming** — LeetCode optimization & DSA mastery  
+**System Design** — Scalable architecture & backend engineering  
+**Machine Learning** — Feature engineering & model optimization  
 
-System Design: Scalable architecture & backend engineering
-
-Machine Learning: Feature engineering & model optimization
-
-Interview Preparation: Target 20+ LPA compensation tier
 
 ---
 
@@ -106,3 +96,5 @@ Interview Preparation: Target 20+ LPA compensation tier
 <p align="center">
 Code is poetry, debugging is the art of translation.
 </p>
+
+---
