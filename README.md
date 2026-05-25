@@ -22,8 +22,8 @@
 <a href="https://instagram.com/ashish._.pal3"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/vivek3pal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:vivek33pal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/avpxm8"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/u/AVPXM8/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://github.com/vivekducs"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/vivekducs/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
 ---
@@ -60,13 +60,13 @@ Vercel, Render, AWS, Git
 <td width="50%">
 
 ### Contribution Graph
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avpxm8&theme=default"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivekducs&theme=default"/>
 
 ### GitHub Stats
 <img src="https://camo.githubusercontent.com/856ae1ed5bf6a20a1d1c8b5252ecdc5a09ad6d5e05adec695cccf1e64465e077/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d617670786d38267468656d653d64656661756c7426686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365"/>
 
 ### Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avpxm8&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekducs&layout=compact"/>
 
 </td>
 </tr>
@@ -77,7 +77,7 @@ Vercel, Render, AWS, Git
 ## LeetCode Performance
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/AVPXM8?theme=light&font=Karma&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/vivekducs?theme=light&font=Karma&ext=heatmap"/>
 </p>
 
 ---
@@ -95,9 +95,9 @@ Vercel, Render, AWS, Git
 ## GitHub Metrics
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/avpxm8?style=flat-square&label=Total%20Stars"/>
-<img src="https://img.shields.io/github/followers/avpxm8?style=flat-square&label=Followers"/>
-<img src="https://komarev.com/ghpvc/?username=avpxm8&label=Profile%20Views&style=flat-square"/>
+<img src="https://img.shields.io/github/stars/vivekducs?style=flat-square&label=Total%20Stars"/>
+<img src="https://img.shields.io/github/followers/vivekducs?style=flat-square&label=Followers"/>
+<img src="https://komarev.com/ghpvc/?username=vivekducs&label=Profile%20Views&style=flat-square"/>
 </p>
 
 ---
